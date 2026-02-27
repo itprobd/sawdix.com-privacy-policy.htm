@@ -9,7 +9,7 @@ from telegram.ext import (
 )
 from apscheduler.schedulers.background import BackgroundScheduler
 
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
+BOT_TOKEN = "8392938310:AAEWmjx_8cKkiPouCb4-uKC-M2cGz_XC0v8"
 
 DIVISIONS = {
     "dhaka": "Dhaka",
